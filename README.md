@@ -1,4 +1,4 @@
 # git_study
-git_tools
-url:https://pan.baidu.com/s/1OmqdW0DrAFxCsw4EqozakQ
-pass:dftq
+### git_tools
+[x] url:https://pan.baidu.com/s/1OmqdW0DrAFxCsw4EqozakQ
+[x] pass:dftq
